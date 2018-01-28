@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#96BA5A</color>
+    <color name="colorPrimaryDark">#5AAC7B</color>
+    <color name="colorAccent">#4BC1DD</color>
+
+    <!-- BUTTONS -->
+    <color name="btn_green">#7BCEC0</color>
+    <color name="btn_blue_white">#63AFCB</color>
+    <color name="btn_cancel_delete">#EA5C5C</color>
+
+    <!-- THEME -->
+    <color name="white_green">#29C089</color>
+    <color name="blue_face">#4A67A1</color>
+    <color name="red_goo">#DF4E3B</color>
+
+    <!-- TEXT -->
+    <color name="darker_gray">#434A54</color>
+    <color name="dark_gray">#656D78</color>
+    <color name="medium_gray">#CCD1D9</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#E6E9ED</color>
+
 </resources>

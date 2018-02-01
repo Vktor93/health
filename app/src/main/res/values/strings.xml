@@ -19,17 +19,54 @@
     <string name="ins_day">Dia</string>
     <string name="ins_month">Mes</string>
     <string name="ins_year">Año</string>
-    <string name="ins_id">No. de Tarjeta</string>
+    <string name="ins_no_card">No. de Tarjeta</string>
     <string name="ins_name">Nombre</string>
     <string name="ins_last_name">Apellido</string>
     <string name="ins_address">Dirección</string>
     <string name="ins_age">Edad</string>
 
+    <!-- SEARCH SCHEDULE SCREEN -->
+    <string name="sr_day">Dia</string>
+    <string name="sr_month">Mes</string>
+    <string name="sr_year">Año</string>
+    <string name="sr_state">Estado</string>
+    <string name="sr_search">Buscar</string>
+
     <!-- ADD SCHEDULE SCREEN -->
-    <string name="ad_day">Dia</string>
-    <string name="ad_month">Mes</string>
-    <string name="ad_year">Año</string>
-    <string name="ad_state">Estado</string>
-    <string name="ad_search">Buscar</string>
+    <string name="add_day">Dia</string>
+    <string name="add_month">Mes</string>
+    <string name="add_year">Año</string>
+    <string name="add_no_card">No. de Tarjeta</string>
+    <string name="add_name">Nombre</string>
+    <string name="add_last_name">Apellido</string>
+    <string name="add_age">Edad</string>
+    <string name="add_size">Talla</string>
+    <string name="add_weight">Peso</string>
+    <string name="add_chart">Gráfica</string>
+    <string name="add_z_score">Índice Z</string>
+
+    <!-- PROFILE SCREEN -->
+    <string name="pr_name">Nombre</string>
+    <string name="pr_last_name">Apellido</string>
+    <string name="pr_age">Edad</string>
+    <string name="pr_sex">Sexo</string>
+    <string name="pr_size">Talla</string>
+    <string name="pr_index_z">Índice Z</string>
+    <string name="pr_guide">Guía</string>
+    <string name="pr_edit">Editar</string>
+    <string name="pr_cm">cm</string>
+    <string name="pr_kg">Kg</string>
+
+    <!-- CHART SCREEN -->
+    <string name="ch_name">Nombre</string>
+    <string name="ch_no_card">No. de Tarjeta</string>
+    <string name="ch_index_z">Ídice Z</string>
+    <string name="ch_state">Estado</string>
+    <string name="ch_good">Exceso</string>
+    <string name="ch_normal">Normal</string>
+    <string name="ch_bad">Mal</string>
+
+    <!-- NUTRITION SCREEN -->
+    <string name="nt_title">Guía Nutricional</string>
 
 </resources>

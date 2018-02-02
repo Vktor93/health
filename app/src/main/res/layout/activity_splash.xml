@@ -27,7 +27,7 @@
             android:id="@+id/imgLogo"
             android:layout_width="134dp"
             android:layout_height="215dp"
-            app:srcCompat="@drawable/logo_healthy" />
+            app:srcCompat="@drawable/logo_healthy" android:contentDescription="TODO"/>
 
         <TextView
             android:id="@+id/txtLogo"

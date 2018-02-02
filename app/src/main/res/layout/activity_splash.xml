@@ -34,10 +34,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:fontFamily="@font/insanibc_font"
+            android:fontFamily="@font/trench_font"
             android:gravity="center"
             android:text="@string/sp_logo_name"
             android:textColor="@color/colorPrimary"
-            android:textSize="36sp" />
+            android:textSize="40sp"
+            android:textStyle="bold" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

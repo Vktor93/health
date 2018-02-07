@@ -7,21 +7,21 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-
 public class Splash extends AppCompatActivity {
-    @BindView(R.id.txtLogo)
-    TextView logo;
+    //@BindView(R.id.txtLogo)
+    private TextView logo;
 
-    @BindView(R.id.imgLogo)
-    ImageView image;
+    //@BindView(R.id.imgLogo)
+    private ImageView image;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        ButterKnife.bind(this);
+        //ButterKnife.bind(this);
+
+        logo = findViewById(R.id.txtLogo);
+        image = findViewById(R.id.imgLogo);
 
         Animation animDown = AnimationUtils.loadAnimation( this, R.anim.uptodown);
         Animation animUp = AnimationUtils.loadAnimation( this,R.anim.downtoup);

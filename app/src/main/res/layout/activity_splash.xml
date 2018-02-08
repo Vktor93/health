@@ -27,18 +27,18 @@
             android:id="@+id/imgLogo"
             android:layout_width="134dp"
             android:layout_height="215dp"
-            app:srcCompat="@drawable/logo_healthy" android:contentDescription="TODO"/>
+            app:srcCompat="@drawable/logo_healthy" android:contentDescription="logo"/>
 
         <TextView
             android:id="@+id/txtLogo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:fontFamily="@font/trench_font"
             android:gravity="center"
             android:text="@string/sp_logo_name"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="40sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/trench_font"/>
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
